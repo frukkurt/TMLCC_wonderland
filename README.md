@@ -96,7 +96,7 @@ We used metric Mean absolute error for Evaluation & Validation.
 | Genetic programming | N/A | 35.00 |
 | Voting regressor | N/A | 23.65 |
 | Random forest | 7.57 | 19.55 |
-| MNeural network | 25.22 | 13.28 |
+| Neural network | 25.22 | 13.28 |
 | XGboost | 8.88 | 18.18 |
 
 The team did not validation the **Genetic programming model** and **Voting regressor model**.It can be noticed that **Neural network** under fitting occurs due to The structure may not be good enough and the number of epochs is too young. In **Random forest**, there is a high chance of overfitting and poor predictive results. Compared to **XGboost**, it's almost overfitting and has the best predictions.
