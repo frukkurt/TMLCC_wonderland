@@ -12,6 +12,7 @@
 - Data preprocessing
 - Model 
 - Summary
+![TMLCC_Wonderland (10)](https://user-images.githubusercontent.com/63940535/137857352-52f73d10-e317-4729-9489-383d789b55c8.gif)
 
 ## I.Data understand
 or Exploratory data
@@ -40,6 +41,7 @@ or Exploratory data
 
 
 ## II.Data cleaning
+![TMLCC_Wonderland (11)](https://user-images.githubusercontent.com/63940535/137857373-38a00f4f-1d48-42f4-92d7-b9f383fcc0f0.gif)
 
 - Drop `NaN` `null` 
 - Fillter data (Eg. void volume , void_fraction) 
