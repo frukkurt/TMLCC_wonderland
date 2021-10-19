@@ -69,9 +69,9 @@ and feature engineering
 
 because the model understands the data in Numerically only, we convert the data into a computable format.
 
-- ONE-HOT ENCODE
+- **ONE-HOT ENCODE** : Class or string data types
 
-- NORMALIZATION
+- **NORMALIZATION** : Numerical , Continue data types
 
 ## V.MODEL
 
