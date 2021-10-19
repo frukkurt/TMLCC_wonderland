@@ -14,8 +14,9 @@
 - Summary
 
 ## What we do (TARGET)
-***prediction :***
-![TMLCC_Wonderland (10)](https://user-images.githubusercontent.com/63940535/137857352-52f73d10-e317-4729-9489-383d789b55c8.gif)
+![TMLCC_Wonderland (12)](https://user-images.githubusercontent.com/63940535/137857699-ddbd9a22-3ec8-4ad6-92c6-0ba43688110a.gif)
+
+
 
 ## I.Data understand
 or Exploratory data
